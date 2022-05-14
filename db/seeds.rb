@@ -1,0 +1,6 @@
+User.create(username: 'Ewi', password: 'password')
+User.create(username: 'Galadriel', password: 'password')
+User.create(username: 'Frodo', password: 'password')
+User.create(username: 'Sam', password: 'password')
+User.create(username: 'Gandalf', password: 'password')
+User.create(username: 'Garot', password: 'password')
